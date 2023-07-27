@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thesea2201
-- 👀 I’m interested in BE dev
-- 🌱 I’m currently learning React
+- 👀 I’m interested in full-stack website development
+- 🌱 I’m currently working and learning Salesforce
 - 💞️ I’m looking to collaborate on PHP - Laravel
 - 📫 How to reach me: <a href="https://www.t.me/thesea2201">Telegram @thesea2201</a> or <a href="mailto:thebienpronguyen2201@gmail.com">email to thebienpronguyen2201@gmail.com</a>
 
