@@ -2,7 +2,7 @@
 - 👀 I’m interested in full-stack website development
 - 🌱 I’m currently working and learning Salesforce
 - 💞️ I’m looking to collaborate on PHP - Laravel
-- 📫 How to reach me: <a href="https://www.t.me/thesea2201">Telegram @thesea2201</a> or <a href="mailto:nguyenthebien8910@gmail.com">email to thebienpronguyen2201@gmail.com</a>
+- 📫 How to reach me: <a href="https://www.t.me/thesea2201">Telegram @thesea2201</a> or <a href="mailto:nguyenthebien8910@gmail.com">email to nguyenthebien8910@gmail.com</a>
 
 <!---
 thesea2201/thesea2201 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
